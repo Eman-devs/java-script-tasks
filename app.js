@@ -42,32 +42,32 @@
 
 // // Task 7
 
-var age = 18;
-var Nationality = prompt("Enter your Nationality")
-var age = +prompt("Enter your age")
+// var age = 18;
+// var Nationality = prompt("Enter your Nationality")
+// var age = +prompt("Enter your age")
 
-if(Nationality=='pakistani'|| Nationality=='Pakistani' ){
+// if(Nationality=='pakistani'|| Nationality=='Pakistani' ){
     
-    if(age>=18){
-        alert("pease go to your voting area")
-    }
-    else{
-        console.log("your are uder age")
-    }
+//     if(age>=18){
+//         alert("pease go to your voting area")
+//     }
+//     else{
+//         console.log("your are uder age")
+//     }
 
-}
+// }
 
 
 
-else if(Nationality=='indian'|| Nationality=='Indian'){
+// else if(Nationality=='indian'|| Nationality=='Indian'){
 
-    alert("your are not eligible to vote in pakistan")
-}
+//     alert("your are not eligible to vote in pakistan")
+// }
 
-else if(Nationality=='American'|| Nationality=='american'){
+// else if(Nationality=='American'|| Nationality=='american'){
 
-    alert("your are not eligible to vote in pakistan")
-}
+//     alert("your are not eligible to vote in pakistan")
+// }
 
 
 // TASK NO 2
